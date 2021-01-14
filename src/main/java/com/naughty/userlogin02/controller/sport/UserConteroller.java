@@ -1,4 +1,4 @@
-package com.naughty.userlogin02.controller;
+package com.naughty.userlogin02.controller.sport;
 
 import com.alibaba.fastjson.JSON;
 import com.naughty.userlogin02.bean.QueryInfo;
